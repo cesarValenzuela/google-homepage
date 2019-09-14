@@ -1,0 +1,38 @@
+img {
+
+    display: block;
+    margin-left: 44%;
+    margin-top: 10%;
+    margin-bottom: 1%;
+  }
+  input{
+    display: block;
+    margin-left: 40%;
+    margin-bottom: 10px;
+    align-content: center;
+    width: 400px;
+  }
+  #buttons{
+    display: inline;
+    margin-left: 45%;
+    
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  li a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 12px;
+    text-decoration: none;
+    color: black;
+  }
+  li a:hover{
+    text-decoration: underline;
+  }
+  
